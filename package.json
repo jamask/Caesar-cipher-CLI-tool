@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "through2": "^3.0.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/jamask/Caesar-cipher-CLI-tool/issues"
   },
-  "homepage": "https://github.com/jamask/Caesar-cipher-CLI-tool#readme",
-  "dependencies": {
-    "minimist": "^1.2.5"
-  }
+  "homepage": "https://github.com/jamask/Caesar-cipher-CLI-tool#readme"
 }
