@@ -8,11 +8,11 @@
 - Go to folder `task1`
 - node my_caesar_cli
 
-## CLI tool should accept 4 options (short alias and full name)::
+## CLI tool should accept 4 options (short alias and full name):
 
--s, --shift: a shift (required)
--i, --input: an input file
--o, --output: an output file
+-s, --shift: a shift (required)  
+-i, --input: an input file  
+-o, --output: an output file  
 -a, --action: an action encode/decode (required)
 
 ## Usage example:
